@@ -42,6 +42,6 @@ print(math.sqrt(n))
 
 
 #5 Write a Python program with builtin function that returns True if all elements of the tuple are true.
-# t = (True, True, True)
-# print(all(t))
+t = (True, True, True)
+print(all(t))
 
